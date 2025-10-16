@@ -19,7 +19,8 @@
                 "bundle://hideo-shell/wallpapers/winter.qoi",
                 "bundle://fonts-inter/fonts/Inter-Regular.ttf",
                 "bundle://fonts-inter/fonts/Inter-Medium.ttf",
-                "bundle://fonts-inter/fonts/Inter-Bold.ttf"
+                "bundle://fonts-inter/fonts/Inter-Bold.ttf",
+                "bundle://hideo-console.main/_bin"
             ]
         }
     ]
